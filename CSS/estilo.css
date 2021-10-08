@@ -4,10 +4,10 @@ body{
 
      a { color: white }
 
-p {font-size:20px; }
+p {font-size:1.2vw; }
 
 .container{
-    margin-top:1.4vw;
+    margin-top:20px;
     border-radius: 15px;
     
 }
